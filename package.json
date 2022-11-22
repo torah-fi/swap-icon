@@ -1,0 +1,8 @@
+{
+  "name": "common-swap-icons",
+  "version": "0.1.5",
+  "main": "index.js",
+  "repository": "git@github.com:cryptodefi2/swap-icons.git",
+  "license": "MIT",
+  "private": true
+}
